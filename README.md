@@ -19,5 +19,6 @@
  
 <div> 
    <a href="https://www.linkedin.com/in/flavio-henrique-de-oliveira-150598233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+ ![Snake animation](https://github.com/FlavioOliverDS/FlavioOliverDS/blob/output/github-contribution-grid-snake.svg)
 </div>
